@@ -15,10 +15,10 @@ def test_between(smallest, highest, item):
     
 test_between(5, 25, 5)    
     
-#test_not_in([1,2,3,4,5,6,7,8,9], 5)
+test_not_in([1,2,3,4,5,6,7,8,9], 5)
     
-#test_is_in([1,2,3,4,5,6], 9)    
+test_is_in([1,2,3,4,5,6], 9)    
 
-#test_not_equal(numbers_of_evens(0), 0)    
+ 
     
   
